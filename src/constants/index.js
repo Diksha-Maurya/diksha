@@ -28,21 +28,33 @@ export const technologies = [
     name: "Python",
     icon: "https://skillicons.dev/icons/?i=python",
   },
+  { 
+    name:"Java",
+    icon:"https://skillicons.dev/icons/?i=java",
+  },
+  { 
+    name:"PostgreSQL",
+    icon:"https://skillicons.dev/icons/?i=postgres",
+  },
   {
     name: "Typescript",
     icon: "https://skillicons.dev/icons/?i=typescript",
-  },
-  {
-    name: "Kubernetes",
-    icon: "https://skillicons.dev/icons/?i=kubernetes",
   },
   { 
     name:"Shell",
     icon:"https://skillicons.dev/icons/?i=powershell",
   },
   { 
+    name:"FastAPI",
+    icon:"https://skillicons.dev/icons/?i=fastapi",
+  },
+  { 
     name:"Linux",
     icon:"https://skillicons.dev/icons/?i=linux",
+  },
+  { 
+    name:"Spring Boot",
+    icon:"https://skillicons.dev/icons/?i=spring",
   },
   { 
     name:"Bash",
@@ -57,10 +69,6 @@ export const technologies = [
     icon:"https://skillicons.dev/icons/?i=flask",
   },
   { 
-    name:"Spring Boot",
-    icon:"https://skillicons.dev/icons/?i=spring",
-  },
-  { 
     name:"Tensorflow",
     icon:"https://skillicons.dev/icons/?i=tensorflow",
   },
@@ -72,58 +80,18 @@ export const technologies = [
     name: "MongoDB",
     icon: "https://letsprogram.in/assets/images/icons/mongodb.svg",
   },
-  { 
-    name:"Java",
-    icon:"https://skillicons.dev/icons/?i=java",
+  {
+    name: "Kubernetes",
+    icon: "https://skillicons.dev/icons/?i=kubernetes",
   },
-  // { 
-  //   name:"Terraform",
-  //   icon:"https://skillicons.dev/icons/?i=terraform",
-  // },
-  // { 
-  //   name:"Ansible",
-  //   icon:"https://skillicons.dev/icons/?i=ansible",
-  // },
   {
     name:"AWS",
     icon:"https://skillicons.dev/icons/?i=aws",
   },
-  // {
-  //   name:"Azure",
-  //   icon:"https://skillicons.dev/icons/?i=azure",
-  // },
   {
     name:"Docker",
     icon:"https://skillicons.dev/icons/?i=docker",
   },
-  // {
-  //   name:"Jenkins",
-  //   icon:"https://skillicons.dev/icons/?i=jenkins",
-  // },
-  // {
-  //   name:"Prometheus",
-  //   icon:"https://skillicons.dev/icons/?i=prometheus",
-  // },
-  // {
-  //   name:"Grafana",
-  //   icon:"https://skillicons.dev/icons/?i=grafana",
-  // },
-  // {
-  //   name:"SFTP",
-  //   icon:"https://img.shields.io/badge/SFTP-0B3D91?style=flat-square&logo=internet-explorer&logoColor=white",
-  // },
-  // {
-  //   name:"Connect",
-  //   icon:"https://img.shields.io/badge/Connect_Direct-0055A4?style=flat-square&logo=ibm&logoColor=white",
-  // },
-  // {
-  //   name:"MQ",
-  //   icon:"https://skillicons.dev/icons/?i=rabbitmq",
-  // },
-  // {
-  //   name:"Kafka",
-  //   icon:"https://skillicons.dev/icons/?i=kafka",
-  // },
 ];
 
 export const experiences = [
