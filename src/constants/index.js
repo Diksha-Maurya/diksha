@@ -45,6 +45,10 @@ export const technologies = [
     icon:"https://skillicons.dev/icons/?i=powershell",
   },
   { 
+    name:"React",
+    icon:"https://skillicons.dev/icons/?i=react",
+  },
+  { 
     name:"FastAPI",
     icon:"https://skillicons.dev/icons/?i=fastapi",
   },
@@ -67,6 +71,10 @@ export const technologies = [
   { 
     name:"Flask",
     icon:"https://skillicons.dev/icons/?i=flask",
+  },
+  { 
+    name:"Javascript",
+    icon:"https://skillicons.dev/icons/?i=javascript",
   },
   { 
     name:"Tensorflow",
@@ -281,6 +289,10 @@ export const projects = [
       },
       { 
         name: "REST API", 
+        color: "red-text-gradient" 
+      },     
+      { 
+        name: "Angular", 
         color: "red-text-gradient" 
       },          
     ],
