@@ -75,7 +75,7 @@ const Projects = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          These projects are my fun creations, built during my free time as a hobby to help others and explore new ideas. Each one showcases my skills with real-world examples, complete with code repositories and live demos. They reflect my passion for problem-solving, experimenting with technologies, and building useful tools.
+          These projects are a mix of coursework and personal explorations, created both as part of academic assignments and in my free time to help others and experiment with new ideas. Each one showcases my technical skills through real-world examples, complete with code repositories and live demos. They reflect my passion for problem-solving, exploring technologies, and building useful tools.
         </motion.p>
       </div>
 

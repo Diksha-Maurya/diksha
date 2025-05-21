@@ -179,48 +179,6 @@ export const projects = [
     source_code_link: "https://github.com/Diksha-Maurya/LLM-IoT-Fingerprinting",
   },
   {
-    name: "Carbon-Emission-Prediction",
-    description:
-      "Developed a machine learning model to predict CO₂ emissions using linear regression. Performed data preprocessing, exploratory data analysis, and model evaluation using Python libraries like Pandas, Seaborn, and Scikit-learn.",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Pandas",
-        color: "green-text-gradient",
-      },
-      {
-        name: "NumPy",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Matplotlib",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Seaborn",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ScikitLearn",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "LinearRegression",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "DataVisualization",
-        color: "green-text-gradient",
-      }
-          
-    ],
-    image: "images/carbon-footprint.jpg",
-    source_code_link: "https://github.com/Diksha-Maurya/Carbon-Emission-Prediction",
-  },
-  {
     name: "CUDA-Implementation-of-TTM",
     description:
       "Implemented the Tensor-Times-Matrix (TTM) operation using three parallel computing approaches: CUDA, MPI, and OpenMP. Our goal is to compare the performance of these implementations and evaluate GPU acceleration benefits.",
@@ -299,4 +257,46 @@ export const projects = [
     image: "images/animal_tracker.jpg",
     source_code_link: "https://github.com/Diksha-Maurya/Animal-Tracker",
   },
+  {
+    name: "Carbon-Emission-Prediction",
+    description:
+      "Developed a machine learning model to predict CO₂ emissions using linear regression. Performed data preprocessing, exploratory data analysis, and model evaluation using Python libraries like Pandas, Seaborn, and Scikit-learn.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Pandas",
+        color: "green-text-gradient",
+      },
+      {
+        name: "NumPy",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Matplotlib",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Seaborn",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ScikitLearn",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "LinearRegression",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "DataVisualization",
+        color: "green-text-gradient",
+      }
+          
+    ],
+    image: "images/carbon-footprint.jpg",
+    source_code_link: "https://github.com/Diksha-Maurya/Carbon-Emission-Prediction",
+  }
 ];
