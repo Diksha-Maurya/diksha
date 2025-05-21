@@ -256,6 +256,35 @@ export const projects = [
       
     ],
     image: "images/kube.png",
-    source_code_link: "https://github.com/nihharikadubey/KubeSecOps--Enterprise-Three-Tier-Application-Platform",
+    source_code_link: "https://github.com/Diksha-Maurya/CUDA-Implementation-of-TTM",
+  },
+  {
+    name: "Animal Tracker",
+    description:
+      "A full-stack web application to monitor and manage livestock movement efficiently. Built with React and TypeScript on the frontend, and Java Spring Boot with PostgreSQL on the backend. Features include secure authentication, dynamic dashboards, data tables, and RESTful APIs for seamless tracking and reporting.",
+    tags: [
+      { 
+        name: "Java",
+        color: "blue-text-gradient" 
+      },
+      { 
+        name: "TypeScript",
+        color: "green-text-gradient" 
+      },
+      { 
+        name: "Spring Boot", 
+        color: "yellow-text-gradient" 
+      },
+      { 
+        name: "PostgreSQL", 
+        color: "purple-text-gradient" 
+      },
+      { 
+        name: "REST API", 
+        color: "red-text-gradient" 
+      },          
+    ],
+    image: "images/animal_tracker.jpg",
+    source_code_link: "https://github.com/Diksha-Maurya/Animal-Tracker",
   },
 ];
