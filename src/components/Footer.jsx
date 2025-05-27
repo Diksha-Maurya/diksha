@@ -50,4 +50,4 @@ const Footer = () => {
   );
 };
 
-export default SectionWrapper(Footer, "footer");
+export default SectionWrapper(Footer, "contact");
